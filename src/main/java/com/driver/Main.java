@@ -1,5 +1,5 @@
 package com.driver;
-import java.util.*;
+
 public class Main {
     public static void main(String[] args) {
         F1 mercedes = new F1("mercedes", false);
